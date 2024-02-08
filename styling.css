@@ -55,6 +55,41 @@ button{
     color:#4cc9f0;
 }
 
-.home, .guest p{
-    color: #fffcf7;
+#home-btn, #guest-btn{
+    color:#fffcf7;
+    font-size: 3.75em;
 }
+
+.home {
+    background-color: transparent;
+    border: 2px solid #FFBE0B;;
+}
+
+.guest{
+    background-color: transparent;
+    border: 2px solid #4cc9f0;
+}
+
+ .guest button {
+    background-color: #fb8500;
+    border: none;
+    outline: none;
+    padding: 0.3em 0.7em;
+    border-radius: 0.3em;
+    font-weight: 600;
+    font-size: 0.9em;
+}
+
+.home button {
+    background-color:#fb8500;
+    border: none;
+    outline: none;
+    padding: 0.3em 0.4em;
+    border-radius: 0.3em;
+    font-weight: 600;
+    font-size: 0.9em;
+}
+
+/*#fffcf7
+border: 2px solid #fb8500;
+*/

@@ -41,6 +41,12 @@ let addThreeGuest = () => {
     guestScore.textContent = countGuest
 }
 
+let resetScores = () => {
+    countGuest = 0
+    countHome = 0
+    homeScore.textContent = countHome
+    guestScore.textContent = countGuest
+}
 
 
 
