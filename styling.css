@@ -30,6 +30,7 @@ body{
     background-color: #353838;
     padding: 2em;
     border-radius: 0.5em;
+    font-family: "Poppins", sans-serif;
 }
 
 button{
@@ -46,3 +47,14 @@ button{
     border-radius: 0.5em;
 }
 
+.home h1{
+    color: #FFBE0B;
+}
+
+.guest h1{
+    color:#4cc9f0;
+}
+
+.home, .guest p{
+    color: #fffcf7;
+}
