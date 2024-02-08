@@ -36,3 +36,13 @@ button{
     cursor: pointer;
 }
 
+#reset-btn {
+    background-color: transparent;
+    border: 3px solid #FF006E;
+    color: #FF006E;
+    height: 5em;
+    width: 5em;
+    margin: 10px;
+    border-radius: 0.5em;
+}
+
